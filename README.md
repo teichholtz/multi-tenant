@@ -1,1 +1,3 @@
-Repos to use the multi tenant example
+### Building Multi Tenant Applications with Django
+
+[Building Multi Tenant Applications with Django](https://books.agiliq.com/projects/django-multi-tenant/en/latest/)
